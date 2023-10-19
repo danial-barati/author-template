@@ -2,10 +2,7 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
-
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
-
+![view](https://github.com/danial-barati/author-template/assets/104683176/b575072f-2182-4c69-95dd-73fb03654eb7)
 - [Demo Project](https://danial-barati.github.io/author-template/)
 
 - Developed by danial barati
