@@ -2,8 +2,7 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![view](https://github.com/danial-barati/author-template/assets/104683176/b575072f-2182-4c69-95dd-73fb03654eb7)
-- [Demo Project](https://danial-barati.github.io/author-template/)
+![view](https://github.com/danial-barati/author-template/assets/104683176/9e95f6dd-d59e-4e2d-a06c-dde5e7ba1f5c)
 
 - Developed by danial barati
 
