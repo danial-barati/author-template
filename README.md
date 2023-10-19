@@ -1,6 +1,6 @@
 # author-template
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+**Best-Selling Author And The Most Influential Public Intellectual In The Western World Right Now 📖.**
 
 ![view](https://github.com/danial-barati/author-template/assets/104683176/9e95f6dd-d59e-4e2d-a06c-dde5e7ba1f5c)
 
